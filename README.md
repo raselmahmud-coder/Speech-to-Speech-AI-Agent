@@ -211,8 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Developer**: Rasel Mahmud  
-**Email**: your-email@example.com  
-**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+**LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/rasel-mahmud-coder)  
 **GitHub**: [@raselmahmud-coder](https://github.com/raselmahmud-coder)
 
 ---
