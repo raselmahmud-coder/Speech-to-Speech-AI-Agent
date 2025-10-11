@@ -6,9 +6,9 @@ import { useCallback } from "react";
 import { useConfig } from "./useConfig";
 import { useToast } from "@/components/toast/ToasterProvider";
 const HARDCODED_CONFIG = {
-  LIVEKIT_URL: "wss://mortgage-c93kwxau.livekit.cloud",
-  LIVEKIT_API_KEY: "API7RZSL89chooc",
-  LIVEKIT_API_SECRET: "cHWBCnRZnLfsPwDKAoYAgUXAR3m8KpUN0QzBhz3FEe7",
+  LIVEKIT_URL: "wss://rmdude-zv4bvaqr.livekit.cloud",
+  LIVEKIT_API_KEY: "API24Zn5F5Bhrji",
+  LIVEKIT_API_SECRET: "sDs0GqGs5TIOlGY3dG4bFaPemkfM8e4cuhNto1pTv0tA",
   ROOM_NAME: "test_room" 
 };
 
