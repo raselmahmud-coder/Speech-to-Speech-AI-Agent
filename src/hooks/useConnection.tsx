@@ -6,7 +6,7 @@ import { useCallback } from "react";
 import { useConfig } from "./useConfig";
 import { useToast } from "@/components/toast/ToasterProvider";
 const HARDCODED_CONFIG = {
-  LIVEKIT_URL: process.env.NEXT_PUBLIC_LIVEKIT_URL,
+  LIVEKIT_URL: process.env.NEXT_PUBLIC_LIVEKIT_URL || "",
   ROOM_NAME: "test_room" 
 };
 
